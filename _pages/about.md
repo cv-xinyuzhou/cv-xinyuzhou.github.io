@@ -38,9 +38,9 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 * Research Assistant, [Department of Infectious Disease Epidemiology, LSHTM](https://www.lshtm.ac.uk/research/faculties/eph/ide) *May 2020 - Now* <br>
 
 # Extracurricular activity
-* Club President,Fudan Chinese Chess Association, *Sep. 2018 - Sep. 2019*
-* Vice-minister,Department of New Media, Fudan University Student Union, *Sep. 2018 - Jan. 2019*
-* Ministry Assistant,Department of external relationship, Fudan University Student Union, *Mar. 2018-Jul. 2018*
+* Club President, Fudan Chinese Chess Association, *Sep. 2018 - Sep. 2019*
+* Vice-minister, Department of New Media, Fudan University Student Union, *Sep. 2018 - Jan. 2019*
+* Ministry Assistant, Department of external relationship, Fudan University Student Union, *Mar. 2018-Jul. 2018*
 * Class monitor, Fudan University School of Public Health, *Feb 2019 - Now*
 * Assistant counselor, class of 2023, Social Science, Fudan University, *Sep.2019*
 
