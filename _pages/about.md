@@ -28,8 +28,8 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
 # Skills
 * Programming Languages: Python, R, HTML, CSS, Javascript, Ruby <br>
-* *(linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper, and so on)*<br>
-* Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis<br>
+* linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper <br>
+* Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis <br>
 
 # Internship
 * Research Assistant, [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) *Apr. 2019 - Now* <br>
