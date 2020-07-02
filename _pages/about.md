@@ -28,8 +28,8 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
 # Skills
 * Programming Languages: Python, R, HTML, CSS, Javascript, Ruby <br>
-* *(linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper, and so on)*
-* Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis
+* *(linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper, and so on)*<br>
+* Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis<br>
 
 # Internship
 * Research Assistant, [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) *Apr. 2019 - Now* <br>
@@ -46,7 +46,7 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
 # Awards
 * 1st, Fudan University freshman Chinese chess competition, *Nov. 2017*
-* 2nd(term), Shanghai Chinese chess competition, *Dec. 2017*
+* 2nd, as a team, Shanghai Chinese chess competition, *Dec. 2017*
 * 7th, Shanghai Chinese chess competition, *Dec. 2017*
 * Outstanding volunteer, Fudan University "Yuanzheng" Association, *Sep. 2017 - Jan. 2018*
 * Fudan University third-class scholarship, *Sep. 2018*
