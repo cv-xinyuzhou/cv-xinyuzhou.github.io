@@ -2,12 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "CV/Bio"
-    url: /cv/
     
   - title: "Projects"
     url: /projects/
+    
+  - title: "CV/Bio"
+    url: /cv/
 
   - title: "Contact"
     url: /contact/
+  
+  - title: "Blog"
+    url: /blog/
