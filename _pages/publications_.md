@@ -1,6 +1,6 @@
 ---
 title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en&authuser=1)"
-permalink: /publications/
+permalink: /publications_/
 author_profile: true
 ---
 
