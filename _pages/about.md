@@ -11,7 +11,7 @@ redirect_from:
 <p align="center">
   <img src="https://raw.githubusercontent.com/cv-xinyuzhou/cv-xinyuzhou.github.io/master/files/XZHOU_.jpg" alt="Photo" style="width: 750px;"/> 
 </p>
- *updated on Jul. 1, 2020*
+ *updated on Jul. 14, 2020*
 
 # Introduction
 * I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
@@ -25,9 +25,11 @@ redirect_from:
 * **Visiting student** *Sept. 2019 - Dec. 2019 <br>*
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
+* **Graduate Student Summer School** *July 2020
+[School of Data Science, Fudan University](https://sds.fudan.edu.cn/) 
 
 # Skills
-* Programming Languages: Python, R, HTML, CSS, Javascript, Ruby <br>
+* Programming Languages: Python, R, HTML, CSS, Javascript, Ruby, JAVA <br>
 * linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper <br>
 * Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis <br>
 
