@@ -25,7 +25,7 @@ redirect_from:
 * **Visiting student** *Sept. 2019 - Dec. 2019 <br>*
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
-* **Graduate Student Summer School "Application and innovation of Data Science" ** *July 2020* <br>
+* **Graduate Student Summer School "Application and innovation of Data Science"** *July 2020* <br>
 [School of Data Science, Fudan University](https://sds.fudan.edu.cn/) 
 
 # Skills
