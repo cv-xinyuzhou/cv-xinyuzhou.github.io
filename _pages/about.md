@@ -15,7 +15,7 @@ redirect_from:
 
 # Introduction
 * I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
-* My principal research interest lies in applying texting mining techniques to analyse "big data" from social medias for issues surrounding emerging infectious disease (e.g. COVID-19) and the vaccine.
+* My principal research interest lies in applying texting mining techniques to analyse "big data" from social medias for public health issues.
 
 # Education
 * **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022* <br>
@@ -25,12 +25,12 @@ redirect_from:
 * **Visiting student** *Sept. 2019 - Dec. 2019 <br>*
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
-* **Graduate Student Summer School** *July 2020* <br>
+* **Graduate Student Summer School "Application and innovation of Data Science" ** *July 2020* <br>
 [School of Data Science, Fudan University](https://sds.fudan.edu.cn/) 
 
 # Skills
 * Programming Languages: Python, R, HTML, CSS, Javascript, Ruby, JAVA <br>
-* linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper <br>
+* linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, and web crawler <br>
 * Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis <br>
 
 # Internship
