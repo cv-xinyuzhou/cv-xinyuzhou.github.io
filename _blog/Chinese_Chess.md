@@ -7,3 +7,6 @@ categories:
 - Chinese Chess
 mathjax: true
 ---
+
+Add your text here
+------
