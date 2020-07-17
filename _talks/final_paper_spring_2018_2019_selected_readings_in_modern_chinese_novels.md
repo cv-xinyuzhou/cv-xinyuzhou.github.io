@@ -1,5 +1,5 @@
 ---
-title: "Final paper @ Spring 2018 - 2019 *Selected Readings in Modern Chinese Novels* "
+title: "Final paper, Spring 2018 - 2019, Selected Readings in Modern Chinese Novels"
 collection: talks
 type: "期末论文"
 permalink: /talks/final_paper_spring_2018_2019_selected_readings_in_modern_chinese_novels
