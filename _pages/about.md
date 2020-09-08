@@ -16,6 +16,8 @@ redirect_from:
 # Education
 * **B.A. in Management (Health Policy and Management)** *Sept. 2017 - Exp. Jun. 2022* <br>
 [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
+* **Certificate in Big Data and Artificial Intelligence** *Sept. 2017 - Exp. Jun. 2022* <br>
+[School of Computer Science, Fudan University](http://www.cs.fudan.edu.cn/)
 * **Double major in Chinese Language and Literature** *Sept. 2018 - Exp. Jun. 2022* <br>
 [Department of Chinese Language and Literature, Fudan University](http://chinese.fudan.edu.cn/_t1959/main.psp)<br>
 * **Visiting student** *Sept. 2019 - Dec. 2019 <br>*
