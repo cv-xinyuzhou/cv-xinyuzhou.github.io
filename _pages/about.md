@@ -27,7 +27,7 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 [School of Data Science, Fudan University](https://sds.fudan.edu.cn/) 
 
 # Skills
-* Programming Languages: Python, R, HTML, CSS, Javascript, Ruby, JAVA <br>
+* Programming Languages: Python >> R > HTML, CSS, Javascript, Ruby, and JAVA <br>
 * linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, and web crawler <br>
 * Professional softwares: Adobe Photoshop(PS), Adobe Lightroom(Lr), Adobe After Effect(AE), MongoDB, Redis <br>
 
