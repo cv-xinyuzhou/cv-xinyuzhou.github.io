@@ -7,18 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cv-xinyuzhou/cv-xinyuzhou.github.io/master/files/XZHOU_.jpg" alt="Photo" style="width: 750px;"/> 
-</p>
  *updated on Jul. 14, 2020*
 
 # Introduction
-* I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
+* I am currently a 4th year undergraduate student at [School of Public Health](https://www.fudan.edu.cn/en/2019/0514/c295a96683/page.htm), [Fudan University](https://www.fudan.edu.cn/en/main.psp). My GPA is 3.48/4.00, ranking in 3/10 in my major, 12/120 in the department. During Fall 2019, I was an exchange student at [UC Irvine](https://uci.edu/), and my GPA there was 4.00/4.00.
 * My principal research interest lies in applying texting mining techniques to analyse "big data" from social medias for public health issues.
 
 # Education
-* **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022* <br>
+* **B.A. in Management (Health Policy and Management)** *Sept. 2017 - Exp. Jun. 2022* <br>
 [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
 * **Double major in Chinese Language and Literature** *Sept. 2018 - Exp. Jun. 2022* <br>
 [Department of Chinese Language and Literature, Fudan University](http://chinese.fudan.edu.cn/_t1959/main.psp)<br>
