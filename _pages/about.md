@@ -45,8 +45,8 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 * Assistant counselor, class of 2023, Social Science, Fudan University, *Sep.2019*
 
 # Awards
-* First class(top 10%), Delong Scholar, School of Public Health, Fudan Univ. ￥ 5,000 *May. 2019*
-* Undergraduate Research Program, School of Management, Fudan Univ. ￥ 5,000 *May. 2019*
+* First class(top 10%), Delong Scholar II(Upper level undergraduate research program), School of Public Health, Fudan Univ. ￥ 5,000 *May 2019*
+* FDSM Undergraduate Research Program, School of Management, Fudan Univ. ￥ 5,000 *Apr. 2020*
 * 1st, Fudan University freshman Chinese chess competition, *Nov. 2017*
 * 2nd, as a team, Shanghai Chinese chess competition, *Dec. 2017*
 * 7th, Shanghai Chinese chess competition, *Dec. 2017*
